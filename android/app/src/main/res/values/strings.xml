@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="app_name">ionicreactapp</string>
+    <string name="title_activity_main">ionicreactapp</string>
+    <string name="package_name">ionic.ionicreactapp</string>
+    <string name="custom_url_scheme">ionic.ionicreactapp</string>
+</resources>
